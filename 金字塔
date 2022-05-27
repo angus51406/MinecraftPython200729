@@ -6,7 +6,7 @@ Created on Wed Jul 29 14:51:23 2020
 """
 
 
-from mcpi.minecraft import Minecraft
+from mcpi.minecraft import Minecraf
 mc = Minecraft.create()
 
 x,y,z = mc.player.getTilePos()
